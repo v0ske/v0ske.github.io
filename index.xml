@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oleg Tourchin</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Oleg Tourchin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>verpleegkundige reflectie</title>
+      <link>http://localhost:1313/post/verpleegkundige-reflectie/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/verpleegkundige-reflectie/</guid>
+      <description>Vandaag is het de dag van de verpleegkunde, het moment bij uitstek om stil te staan bij het verpleegkundig beroep. Wat brengt de toekomst? Het antwoord is simpel, nougatbollen. Door de covid crisis was de personeelsuitval nog veel hoger, het personeel is overwerkt en is de zorg in sommige gevallen beu. Vanuit de overheid worden er veel beloftes gedaan, zoals het her(invoeren) van de premie voor de verpleegkundige op de kritieke diensten.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>In my current role I support my member of parliament Frieda Gijbels (N-VA) with her work.
+We&amp;rsquo;re specialized in the following topics:
+healthcare policy science policy agriculture medical component (MedCom) of the Belgian Armed Forces I&amp;rsquo;m also employed as a polyvalent nurse within several branches of healthcare. Plus pursuing a masters degree in gerontology at the Free University of Brussels (VUB).
+In my pass time I have a big passion for teaching groupfitness classes from LESMILLS and participating in CROSSFIT classes.</description>
+    </item>
+    
+  </channel>
+</rss>
