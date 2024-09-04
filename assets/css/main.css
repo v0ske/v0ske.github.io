@@ -2980,6 +2980,6 @@ img {
   max-width: 100%; }
 
 #wrapper > .bg {
-  background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/profile_pic2cut.jpeg"); }
+  background-image: url("../../images/profile_pic2cut"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/profile_pic2cut.jpeg"); }
 
 /*# sourceMappingURL=main.css.map */
