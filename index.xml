@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oleg Tourchin</title>
     <link>https://v0ske.github.io/</link>
     <description>Recent content on Oleg Tourchin</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://v0ske.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Young Atlantic Treaty Association of Belgium</title>
+      <link>https://v0ske.github.io/post/young-atlantic-treaty-association-of-belgium/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://v0ske.github.io/post/young-atlantic-treaty-association-of-belgium/</guid>
+      <description>I am also actively engaged in YATA Belgium, the Young Atlantic Treaty Association, which serves as the youth partner organization of NATO and was established five years after the alliance itself. The Belgian chapter has been active since 1961 and was founded by former Prime Minister Paul van Zeeland.&#xA;The mission of YATA is to promote transatlantic cooperation, strengthen democratic values, the rule of law, and security, and bridge the gap between policy and civil society through dynamic youth engagement in international security and defense.</description>
+    </item>
+    <item>
+      <title>Gemeenteraadsverkiezingen Genk 2024</title>
+      <link>https://v0ske.github.io/post/gemeenteraadsverkiezingen-genk-2024/</link>
+      <pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://v0ske.github.io/post/gemeenteraadsverkiezingen-genk-2024/</guid>
+      <description>Op 13 oktober 2024 behaalde ik, vanaf plaats 23 op de lijst (van 39), 751 stemmen. Dit bij een opkomst van ongeveer 62%. Ter vergelijking: in 2018 haalde ik 709 stemmen vanaf plaats 28, toen de opkomst 93% bedroeg. Dit betekent een sterke vooruitgang, iets waar ik ontzettend trots op ben.&#xA;Ik ben dankbaar voor alle kansen die ik via de partij heb gekregen en voor iedereen die heeft bijgedragen aan dit succes.</description>
+    </item>
     <item>
       <title>Genk Plaats 23</title>
       <link>https://v0ske.github.io/post/genk-plaats-23/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://v0ske.github.io/post/genk-plaats-23/</guid>
-      <description></description>
+      <description>Genk verdient beter!&#xA;Als verpleegkundige en groepslesgever begrijp ik als geen ander hoe belangrijk respect en communicatie zijn. Mijn hart ligt bij de inwoners van Genk, van jong tot oud. Samen kunnen we onze stad naar een hoger niveau tillen.&#xA;Iedere Genkenaar verdient een stem die gehoord wordt, een stad waar iedereen gelijke kansen krijgt en waar welzijn centraal staat. Laten we samen werken aan een stad waar we trots op kunnen zijn, een Genk waar iedereen zich thuis voelt en kansen krijgt om te groeien.</description>
     </item>
     <item>
       <title>verpleegkundige reflectie</title>
@@ -27,7 +41,7 @@
       <link>https://v0ske.github.io/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://v0ske.github.io/about-me/</guid>
-      <description>In my current role I support my member of parliament Frieda Gijbels (N-VA) with her work.&#xA;We&amp;rsquo;re specialized in the following topics:&#xA;healthcare policy science policy agriculture medical component (MedCom) of the Belgian Armed Forces I&amp;rsquo;m also employed as a polyvalent nurse within several branches of healthcare. Plus pursuing a masters degree in gerontology at the Free University of Brussels (VUB).&#xA;In my pass time I have a big passion for teaching groupfitness classes from LESMILLS and participating in CROSSFIT classes.</description>
+      <description>Currently, my focus lies on completing my master&amp;rsquo;s degree in Gerontology at the Free University of Brussels (VUB) and leading YATA Belgium as its elected Chair.&#xA;I also work as a polyvalent nurse across various branches of healthcare, gaining hands-on experience and staying connected to my passion for helping others.&#xA;My professional journey has been shaped by my experience in the Belgian Parliament, where I supported MP Frieda Gijbels (N-VA) in her work, focusing on:</description>
     </item>
   </channel>
 </rss>
